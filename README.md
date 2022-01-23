@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Shantanu a Software developer.
-- 👀 I’m interested in making contributing creating technology to elevate people and sharing my knowledge with others as publicly. I am also passionate about AI and computer vision. 
+- 👀 I’m interested in creating technology to elevate people and share my knowledge to community. I am also passionate about AI and computer vision. 
 - 👨‍💻 Some technologies I enjoy working with include Java, Python, Rest APIs, GraphQL.
 - 🌱 I’m currently exploring cloud world and SRE principal.
 
