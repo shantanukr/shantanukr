@@ -6,6 +6,8 @@
 ![Overthinking](https://github.com/shantanukr/shantanukr/blob/main/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_7eee78b2-7c19-41c1-9f6f-5a0700c75c3a_550x400.gif)
 - 💞️ I’m looking to collaborate on some open source project that line up with my interests.
 - :speech_balloon: Let's talk about Tech, Traveling, Series, Memes.
+
+![Memes](./assets/meme.jpg)
 - 📫 Find me on web 🌍
 
   [LinkedIn](https://www.linkedin.com/in/shantanu-481b761b6)
