@@ -8,9 +8,9 @@
 ![](https://img.shields.io/badge/CloudService-OCI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-- 👀 I’m interested in creating technology to elevate people, and I'd like to share my knowledge with others. I am also passionate about AI and computer vision. 
+- 👀 I’m interested in creating technology to elevate people, and to pass on what I've learned to others. I am also passionate about AI and computer vision. 
 - 👨‍💻 Some technologies I enjoy working with include Java, Python, Rest APIs, GraphQL.
-- 🌱 I’m currently exploring cloud world and SRE principal.
+- 🌱 I’m currently exploring cloud world and SRE principles and practices.
 
 <img src="https://github.com/shantanukr/shantanukr/blob/main/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_7eee78b2-7c19-41c1-9f6f-5a0700c75c3a_550x400.gif" alt="type type type..." width="200" height="200" align="middle">
 
