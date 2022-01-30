@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Os-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CloudService-OCI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 - 👀 I’m interested in creating technology to elevate people, and to pass on what I've learned to others. I am also passionate about AI and computer vision. 
 - 👨‍💻 Some technologies I enjoy working with include Java, Python, JS, Rest APIs, GraphQL, SQL.
