@@ -1,30 +1,57 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Shantanu a Software developer.
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Os-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CloudService-OCI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+# Hi there 👋 I'm Shantanu Kr.
 
-- 👀 I’m interested in creating technology to elevate people, and to pass on what I've learned to others. I am also passionate about AI and computer vision. 
-- 👨‍💻 Some technologies I enjoy working with include Java, Python, JS, Rest APIs, GraphQL, SQL.
-- 🌱 I’m currently exploring cloud world and SRE principles and practices.
+🛠 **Site Reliability / DevOps Engineer**  
+🎯 Passionate about building scalable systems, streamlining infrastructure, and making tech approachable through content.
 
-<img src="https://github.com/shantanukr/shantanukr/blob/main/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_7eee78b2-7c19-41c1-9f6f-5a0700c75c3a_550x400.gif" alt="type type type..." width="200" height="200" align="middle">
+---
 
-- 💞️ I’m looking to collaborate on some open source project that line up with my interests.
+## 👨‍💻 What I Do
 
-- :speech_balloon: Let's talk about Tech, Traveling, Series, Memes.
-<img src="./assets/meme.jpg" alt="Don't give me hope" width="200" height="200" align="middle">
+By day, I:
+- Keep infrastructure alive and scalable ⚙️
+- Build CI/CD pipelines that don't hate developers 🧱
+- Automate everything, especially the boring stuff 🤖
 
-- 📫 Find me on web 🌍
+By night (and weekends), I:
+- Tinker with product ideas 💡
+- Write and share DevOps tips, coding best practices, and walkthroughs 📘
+- Experiment with creative tools that make life easier 🧪
 
-  [LinkedIn](https://www.linkedin.com/in/shantanu-481b761b6)
+---
 
-<!---
-shantanukr/shantanukr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧰 Tech Stack
+
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat&logo=github-actions)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
+
+---
+
+## ✍️ Latest Writing:
+
+- 📘 [Code Grammar: Chapter 2](https://medium.com/@shantanu.kr96/code-grammar-chapter-2-88f98fd9e105)  
+- 📗 [Code Grammar: Chapter 1](https://medium.com/@shantanu.kr96/code-grammar-chapter-1-3a0f378d464c)
+
+---
+
+## 🎯 Outside of Tech
+
+- 🎧 Music over headphones > meetings over Zoom  
+- ☕ Coffee enthusiast and keyboard snob  
+- 📷 Casual photographer of cloudscapes (the real sky kind)  
+- 📚 Reading about systems thinking and digital minimalism  
+
+---
+
+## 📫 Let’s Connect
+
+- 🐦 [Twitter](https://x.com/byte_bard98)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shantanukr98/)
+
+_“Simplicity is the soul of efficiency.” – Austin Freeman_
